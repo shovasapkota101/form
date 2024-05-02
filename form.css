@@ -1,0 +1,16 @@
+div{
+    margin-top: 20px;
+    height: 200%;
+}
+
+form{
+    background-color:rgb(6, 122, 43);
+    border: 1px solid red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: fit-content;
+    margin-top: 10%;
+    margin-left: 30%;
+    box-shadow:10px 10px 10px 10px rgb(132, 205, 138);
+    width: 30%;
+    overflow: scroll;
+}
